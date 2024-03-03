@@ -6,4 +6,6 @@
 
 
 ![game](image/game.gif)
+
+
 ![expo](image/expo.png)
